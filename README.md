@@ -83,10 +83,19 @@ From **real-time anatomical visualization** to **immersive learning environments
 
 ## 👥 Meet the Team
 
-<p align="center">
-  <img src="Team photos/Fer2.jpg" width="150" style="border-radius:50%; margin:10px" alt="Team Member 1"/>
-  <img src="Team photos/dany.jpg" width="150" style="border-radius:50%; margin:10px" alt="Team Member 2"/>
-  <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%; margin:10px" alt="Team Member 3"/>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="Team photos/Fer2.jpg" width="150" style="border-radius:50%; margin:10px" alt="Fer"/>
+    <p><strong>Fer</strong><br>CEO</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="Team photos/dany.jpg" width="150" style="border-radius:50%; margin:10px" alt="Dany"/>
+    <p><strong>Dany</strong><br>CTO</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%; margin:10px" alt="Member 3"/>
+    <p><strong>Member 3</strong><br>Designer</p>
+  </div>
 </p>
 
 ---
