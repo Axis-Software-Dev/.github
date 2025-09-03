@@ -83,27 +83,29 @@ From **real-time anatomical visualization** to **immersive learning environments
 
 ## 👥 Meet the Team
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Fer"/>
-    <p><strong>Luis Fernando Márquez</strong><br>Director and Founder</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Fer"/>
-    <p><strong>Laura Sánchez</strong><br>Director and Founder</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Dany"/>
-    <p><strong>Josu</strong><br>Manager</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Dany"/>
-    <p><strong>Dany Téllez Girón</strong><br>Developer</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Member 3"/>
-    <p><strong>Osmar Frausto</strong><br>Developer</p>
-  </div>
+<p align="center">
+  <img src="https://placehold.co/400" alt="Luis Fernando Márquez" width="150"><br>
+  <strong>Luis Fernando Márquez</strong><br>Director and Founder
+</p>
+
+<p align="center">
+  <img src="https://placehold.co/400" alt="Laura Sánchez" width="150"><br>
+  <strong>Laura Sánchez</strong><br>Director and Founder
+</p>
+
+<p align="center">
+  <img src="https://placehold.co/400" alt="Josu" width="150"><br>
+  <strong>Josu</strong><br>Manager
+</p>
+
+<p align="center">
+  <img src="https://placehold.co/400" alt="Dany Téllez Girón" width="150"><br>
+  <strong>Dany Téllez Girón</strong><br>Developer
+</p>
+
+<p align="center">
+  <img src="https://placehold.co/400" alt="Osmar Frausto" width="150"><br>
+  <strong>Osmar Frausto</strong><br>Developer
 </p>
 
 ---
