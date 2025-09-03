@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.svg" alt="AXIS VR Logo" width="200"/>
+  <img src="../logo.svg" alt="AXIS VR Logo" width="200"/>
 </p>
 
 ---
