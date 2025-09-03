@@ -85,16 +85,24 @@ From **real-time anatomical visualization** to **immersive learning environments
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="text-align: center;">
-    <img src="Team photos/Fer2.jpg" width="150" style="border-radius:50%; margin:10px" alt="Fer"/>
-    <p><strong>Fer</strong><br>CEO</p>
+    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Fer"/>
+    <p><strong>Luis Fernando Márquez</strong><br>Director and Founder</p>
   </div>
   <div style="text-align: center;">
-    <img src="Team photos/dany.jpg" width="150" style="border-radius:50%; margin:10px" alt="Dany"/>
-    <p><strong>Dany</strong><br>CTO</p>
+    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Fer"/>
+    <p><strong>Laura Sánchez</strong><br>Director and Founder</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%; margin:10px" alt="Member 3"/>
-    <p><strong>Member 3</strong><br>Designer</p>
+    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Dany"/>
+    <p><strong>Josu</strong><br>Manager</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Dany"/>
+    <p><strong>Dany Téllez Girón</strong><br>Developer</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://placehold.co/400" width="150" style="border-radius:50%; margin:10px" alt="Member 3"/>
+    <p><strong>Osmar Frausto</strong><br>Developer</p>
   </div>
 </p>
 
