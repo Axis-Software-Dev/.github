@@ -1,32 +1,45 @@
-# 🎮 AXIS VR
-
 <p align="center">
   <img src="logo.svg" alt="AXIS VR Logo" width="200"/>
 </p>
 
 ---
 
-## 🌐 About Us
+<p align="center">
+  <!-- Core Tech -->
+  <img src="https://img.shields.io/badge/Engine-Unity-100000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-VR/AR-blueviolet?style=flat&logo=oculus&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D-Blender-F5792A?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-OpenXR-FF47A1?style=flat&logo=openxr&logoColor=white" />
+  <img src="https://img.shields.io/badge/VR-Meta_Quest-0467DF?style=flat&logo=oculus&logoColor=white" />
 
-We are **AXIS VR**, a dynamic studio based in **Aguascalientes, México** (founded in 2023).  
-Our core focus is on developing **cutting-edge multimedia solutions**, including immersive:  
-✨ **Virtual Reality (VR)** | ✨ **Augmented Reality (AR)** | ✨ **Metaverse** | ✨ **Data-driven educational tools**
+  <!-- Dev & Collab -->
+  <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat&logo=git&logoColor=white" />
 
-[🔗 LinkedIn Mexico][1]
+  <!-- Culture -->
+  <img src="https://img.shields.io/badge/Made%20with%20❤️-Mexico-006847?style=flat" />
+</p>
 
 ---
 
-## 🎯 Our Mission
+## About Us
+
+We are **AXIS VR**, a dynamic studio based in **Aguascalientes, México**.  
+Our core focus is on developing **cutting-edge multimedia solutions**, including immersive:  
+**Virtual Reality (VR)** | **Augmented Reality (AR)** | **Metaverse** | **Data-driven educational tools**
+
+---
+
+## Our Mission
 
 To redefine learning and interaction by blending **VR/AR technologies** with **advanced data science**, creating customized educational experiences tailored for the future.
 
 From **real-time anatomical visualization** to **immersive learning environments**, we're shaping how technology amplifies education and engagement.
 
-[🔗 LinkedIn Mexico][1] • [🌍 axislab.com.mx][2]
-
 ---
 
-## 📸 Visual Showcase
+## Visual Showcase
 
 <p align="center">
   <a href="https://facebook.com/axisvr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -37,7 +50,7 @@ From **real-time anatomical visualization** to **immersive learning environments
 
 ---
 
-## 🛠️ Technologies & Specialties
+## Technologies & Specialties
 
 - 🎮 **VR & AR Development** – Innovating immersive environments for training, education, and simulation.
 - 🌐 **Metaverse & Web3 Integration** – Building interactive platforms for next-gen experiences.
@@ -47,7 +60,7 @@ From **real-time anatomical visualization** to **immersive learning environments
 
 ---
 
-## 🚀 Why Choose AXIS VR?
+## Why Choose AXIS VR?
 
 - 🎥 **Authentic Footage** — Lifelike anatomical & procedural simulations.
 - 🧑‍🤝‍🧑 **Multidisciplinary Talent** — Bridging design, data, and emerging tech.
@@ -55,28 +68,26 @@ From **real-time anatomical visualization** to **immersive learning environments
 
 ---
 
-## 📊 Quick Stats
+## Quick Stats
 
-| Info          | Details                      |
-| ------------- | ---------------------------- |
-| 📅 Founded    | 2023                         |
-| 📍 Location   | Aguascalientes, México       |
-| 👥 Employees  | 2–10                         |
-| 🏭 Industries | Education, Training, XR Tech |
-
-[🔗 LinkedIn Mexico][1]
+| Info          | Details                                                    |
+| ------------- | ---------------------------------------------------------- |
+| 📅 Founded    | 2023                                                       |
+| 📍 Location   | Aguascalientes, México                                     |
+| 👥 Employees  | 2–10                                                       |
+| 🏭 Industries | Education, Training, XR Tech                               |
+| 🎮 Core Tech  | Unity, C#, Blender, OpenXR, Meta Quest                     |
+| 🌍 Projects   | VR/AR Apps, Educational Simulations, Metaverse Experiences |
 
 ---
 
 ## 👥 Meet the Team
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%; margin:10px" alt="Team Member 1"/>
-  <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%; margin:10px" alt="Team Member 2"/>
+  <img src="Team photos/Fer2.jpg" width="150" style="border-radius:50%; margin:10px" alt="Team Member 1"/>
+  <img src="Team photos/dany.jpg" width="150" style="border-radius:50%; margin:10px" alt="Team Member 2"/>
   <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%; margin:10px" alt="Team Member 3"/>
 </p>
-
-_(Replace placeholders with actual team photos)_
 
 ---
 
@@ -85,16 +96,6 @@ _(Replace placeholders with actual team photos)_
 - 📱 Follow us on social media to witness our projects in motion.
 - 🌍 Visit our website for demos & updates.
 - 💬 Interested? Connect via LinkedIn or drop us a message!
-
----
-
-## 🏷️ Badges
-
-![Unity](https://img.shields.io/badge/Engine-Unity-100000?style=flat&logo=unity&logoColor=white)  
-![C#](https://img.shields.io/badge/Code-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![VR](https://img.shields.io/badge/Focus-VR/AR-blueviolet?style=flat&logo=oculus&logoColor=white)
-
----
 
 [1]: https://mx.linkedin.com/company/axis-vr
 [2]: https://axislab.com.mx
